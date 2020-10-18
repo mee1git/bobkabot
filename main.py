@@ -26,3 +26,5 @@ async def on_reaction_add(reaction, member):
         await member.add_roles(role)
 
 bobka.run(os.environ['TOKEN2'])
+
+# wow it is comment
