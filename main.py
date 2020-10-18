@@ -27,4 +27,4 @@ async def on_reaction_add(reaction, member):
 
 bobka.run(os.environ['TOKEN2'])
 
-# wow it is comment
+# webhook test
